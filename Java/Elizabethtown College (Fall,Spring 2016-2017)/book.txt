@@ -1,0 +1,404 @@
+001.6  W932b        Worth, Thomas,           BASIC for everyone                                                                                                                                  
+001.61  G196s       Gane, Christopher P.     Structured systems analysis :tools and techniques                                                                                                   
+001.61  M655s       Millington, D.,          Systems analysis and design for computer applications                                                                                               
+001.64  Ad244       Elfrey, Priscilla,       Advanced microprocessors                                                                                                                            
+001.64  An615       Rilling, Helmuth.        Annual review of computer science.                                                                                                                    
+001.64  Ar672s      Archer, Tod.             Simplifying microcomputer-based product design with special development equipment                                                                   
+001.64  B581m       Bibbero, Robert J.       Microprocessors in instruments and control                                                                                                          
+001.64  B624c       Bitter, Gary G.          Computers in today's world                                                                                                                          
+001.64  B694h       Bolt, Richard A.         The human interface :where people and computers meet                                                                                                
+001.64  B699m       Bonczek, R. H.           Micro database management :practical techniques for application development                                                                         
+001.64  B786¾       Bowen, B. A.             The logical design of multiple-microprocessor systems                                                                                               
+001.64  B789m       Boyce, Jefferson C.      Microprocessor and microcomputer basics                                                                                                             
+001.64  B798b       Bradbeer, Robin.         The beginner's guide to computers                                                                                                                   
+001.64  C121        Steinberg, David I.      CADCAM in education and training :proceedings of the CAD ED 83 conference                                                                           
+001.64  C311d       Carr, Joseph J.          Designing microprocessor-based instrumentation                                                                                                      
+001.64  C551d       Chorafas, Dimitris N.    Databases for networks and minicomputers                                                                                                            
+001.64  C678i       Cohen, Daniel I. A.,     Introduction to computer theory                                                                                                                     
+001.64  C736i       Ganong, William F.       Intellectual leverage the driving technologies :digest of papers, Compcon Spring 84, February 27-March 1, twenty-eighth IEEE Computer Society Internat
+001.64  C736s       Dorfman, Mark.           The small computer (r)evolution :proceedings                                                                                                        
+001.64  C736t       Ganong, William F.       Technological leverage, a competitive necessity :digest of papers                                                                                   
+001.64  C741m       Hefner, Hugh Marston,    Multiprocessors and parallel processing.                                                                                                              
+001.64  C777m       Cooper, James William,   The minicomputer in the laboratory :with examples using the PDP-11                                                                                  
+001.64  C777m2      Cooper, James William,   The minicomputer in the laboratory :with examples using the PDP-11                                                                                  
+001.64  C978|       Curtice, Robert M.       Logical data base design                                                                                                                            
+001.64  D2321       Syme, Ronald,            Data base file organization :theory and applications of the consecutive retrieval property                                                          
+001.64  D232i2      Date, C. J.              An introduction to database systems                                                                                                                 
+001.64  D232i3      Date, C. J.              An introduction to database systems                                                                                                                 
+001.64  D265i2      Davis, William S.,       Information processing systems                                                                                                                      
+001.64  D614        Elfrey, Priscilla,       Distributed computing :concepts and implementations                                                                                                 
+001.64  Ea11m       Eadie, Donald.           Minicomputers, theory and operation                                                                                                                 
+001.64  Ed26d2, StudHarrison, William L.     Study guide to accompany Edwards and Broadwell's Data processing :computers in action : 2nd ed.                                                     
+001.64  Er65d       Ercegovac, Miloés DragutiDigital systems and hardware/firmware algorithms                                                                                                    
+001.64  F494e       Findley, Robert.         8080 monitor routines                                                                                                                               
+001.64  F634m       Flores, Ivan.            Microcomputer systems                                                                                                                               
+001.64  F771        Daniel, Ralph T.         Foundations of computer science                                                                                                                     
+001.64  F7712       Mills, Gregory B.,       Foundations of secure computation                                                                                                                   
+001.64  F795u       Foxley, Eric.            UNIX for super-users                                                                                                                                
+001.64  F944i       Frude, Neil.             The intimate machine :close encounters with computers and robots                                                                                    
+001.64  G217i       Gardan, Yvon.            Interactive graphics in CAD                                                                                                                         
+001.64  G276u       Gauthier, Richard L.     Using the UNIX system                                                                                                                               
+001.64  G539m       Givone, Donald D.        Microprocessors/microcomputers :an introduction                                                                                                     
+001.64  G563c       Glossbrenner, Alfred.    The complete handbook of personal computer communications :everything you need to go online with the world                                          
+001.64  G658i2      Goody, Roy W.            The intelligent microcomputer                                                                                                                       
+001.64  H4772w      Heller, Dorothy,         Computer confidence :a woman's guide                                                                                                                
+001.64  H477b       Heller, Rachelle S.      Bits 'n bytes about computing :a computer literacy primer                                                                                           
+001.64  H685p       Hockney, R. W.           Parallel computers :architecture, programming and algorithms                                                                                        
+001.64  In61m       Mozart, Johann ChrysostomMIMI 77 :proceedings of the International Symposium on Mini and Micro Computers, Montreal, November 11-18, 1977                                     
+001.64  K84m        Korn, Granino Arthur,    Microprocessors and small digital computer systems for engineers and scientists                                                                     
+001.64  L334d       Larson, James A.         Database management system anatomy                                                                                                                  
+001.64  L583d       Leong-Hong, Belkis.      Data dictionary/directory systems :administration, implementation, and usage                                                                        
+001.64  L657w       Leventhal, Lance A.,     Why do you need a personal computer?                                                                                                                
+001.64  L676a       Lewis, Theodore Gyle,    Applying data structures                                                                                                                            
+001.64  L719i       Lientz, Bennet P.        An introduction to distributed systems                                                                                                              
+001.64  L846u       Lomuto, Ann Nicols,      A UNIX primer                                                                                                                                       
+001.64  L866c3      Lord, Kenniston W.       CDP review manual :a data processing handbook                                                                                                       
+001.64  M131u       McCorduck, Pamela,       The universal machine :confessions of a technological optimist                                                                                      
+001.64  M143d       McFadden, Fred R.,       Data base management                                                                                                                                
+001.64  M145d       McGlynn, Daniel R.       Distributed processing and data communications                                                                                                      
+001.64  M167e       McMenamin, Stephen M.,   Essential systems analysis                                                                                                                          
+001.64  M381d       Martin, James,           Design and strategy for distributed data processing                                                                                                 
+001.64  M619        McCall, J. B.            MICAD '84 :actes de la 3e Confâerence Europâeene sur la C.F.A.O. et L'INFOGRAPHIE 27 fâevrier - 2 mars 1984, Palais des Congráes, Paris = proceedings 
+001.64  M626        Kauffman, James M.       Microcomputer 77 :conference record, April 6-8, 1977, Lincoln Plaza Forum, Oklahoma City                                                            
+001.64  N532        Hosch, Harmon M.         New computer architectures                                                                                                                          
+001.64  P133p2      Page-Jones, Meilir.      The practical guide to structured systems design                                                                                                    
+001.64  P174e       Palmer, John F.          The 8087 primer                                                                                                                                     
+001.64  P363m       Peatman, John B.         Microcomputer-based design                                                                                                                          
+001.64  P828i2      Popkin, Gary S.          Introduction to data processing                                                                                                                     
+001.64  P828i2, StudPopkin, Gary S.          Study guide introduction to data processing                                                                                                         
+001.64  P946h       Price, Robert V.         How to use the Apple II and IIe                                                                                                                     
+001.64  R949d       Rus, Teodor.             Data structures and operating systems                                                                                                               
+001.64  Sa254m      Satyanarayanan, M.       Multiprocessors :a comparative study                                                                                                                
+001.64  Sa255c      Sauer, Charles H.        Computer systems performance modeling                                                                                                               
+001.64  Sa271m      Sawin, Dwight H.         Microprocessors and microcomputer systems                                                                                                           
+001.64  Se454h      Segal, Hillel.           How to select your small computer--without frustration                                                                                              
+001.64  Se467e      Sell, Peter S.           Expert systems :a practical introduction                                                                                                            
+001.64  Sp745d2     Spencer, Donald D.       Data processing, an introduction with BASIC                                                                                                         
+001.64  St858d      Stimler, Saul.           Data processing systems :their performance, evaluation, measurement, and improvement                                                                
+001.64  St933       Hardy, Thomas,           Studies in computer science                                                                                                                         
+001.64  Sy9892¾     Schlobin, Roger C.       Language design and programming methodology :proceedings of a symosium held at Sydney, Australia, 10-11 September 1979                              
+001.64  Sy989p      Ullmann, Walter,         Proceedings of Symposium on Simulation of Computer Systems, National Bureau of Standards, Boulder, Colorado, August 10-12, 1976                     
+001.64  T243u       Taylor, James B.         Using microcomputers in social agencies                                                                                                             
+001.64  T623e       Titus, Christopher A.,   8080/8085 software design, book 2                                                                                                                   
+001.64  T9392p      Turk, Thomas A.          Planning and designing the data base environment                                                                                                    
+001.64  T939s       Turkle, Sherry.          The second self :computers and the human spirit                                                                                                     
+001.64  T966        Barker, George Carpenter,Tutorial: distributed data base management                                                                                                          
+001.64  T966, 1979  Groman, David B.         Tutorial, centralized and distributed data base systems                                                                                             
+001.64  T966, 1981  Wortman, William A.,     Tutorial: data base management in the 1980's                                                                                                        
+001.64  W192c       Wallace, M.              Communicating with databases in natural language                                                                                                    
+001.64  W522b       Berns, Walter Fred,      The best of the computer faires, volume 3 :conference proceedings of the 3rd West Coast Computer Faire ... held in Los Angeles, California, November 3
+001.64  W522c       Patterson, Annabel M.    Conference proceedings                                                                                                                              
+001.64  W522c, 1978 Biehl, G. Richard.       Conference proceedings :the Second West Coast Computer Faire held in the San Josâe Convention Center in San Josâe, California, March 3-5, 1978      
+001.64  W734c3      Willis, Jerry.           Computers for everybody                                                                                                                             
+001.64  W734cf      Willis, Jerry.           Computers for people                                                                                                                                
+001.64  Z38o        Zarrella, John.          Operating systems, concepts and principles                                                                                                          
+001.6404  Sa245i    Sargent, Murray.         Interfacing microcomputers to the real world                                                                                                        
+001.6407  Sa266t    Savas, Stephen D.,       Teaching children to use computers :a friendly guide                                                                                                
+001.642  Ab141s     Abelson, Harold.         Structure and interpretation of computer programs                                                                                                   
+001.642  Ad216w     Adams, Phillip M.        Writing DOS device drivers in C                                                                                                                     
+001.642  An587m     Angermeyer, John.        MS-DOS developer's guide                                                                                                                            
+001.642  Ar769p     Aron, Joel D.            The program development process                                                                                                                     
+001.642  Av963e     Avtar Singh,             The 8086 and 80286 microprocessors :hardware, software, and interfacing                                                                             
+001.642  B126p      Backhouse, Roland C.,    Program construction and verification                                                                                                               
+001.642  B168c      Barker, Wayne G.         Cryptanalysis of shift-register generated stream cipher systems                                                                                     
+001.642  B255ce     Barker, Richard,         CASE*Method :entity relationship modelling                                                                                                          
+001.642  B255ct     Barker, Richard,         CASE Method :tasks and deliverables.                                                                                                                  
+001.642  B472s      Bennett, William Ralph,  Scientific and engineering problem-solving with the computer                                                                                        
+001.642  B489a      Berentes, Drew.          Apple Logo :a complete, illustrated handbook                                                                                                        
+001.642  B624a      Bitter, Gary G.          Apple Logo primer                                                                                                                                   
+001.642  B626f      Bj²rner, D.              Formal specification and software development                                                                                                       
+001.642  B734d      Borkin, Sheldon A.       Data models :a semantic approach for database systems                                                                                               
+001.642  B775|      Bourne, John R.          Laboratory minicomputing                                                                                                                            
+001.642  B811a      Bradley, David J.,       Assembly language programming for the IBM Personal Computer                                                                                         
+001.642  B858       Brinch Hansen, Per,      Programming a personal computer                                                                                                                     
+001.642  B858b      Brinch Hansen, Per,      Brinch Hansen on Pascal compilers                                                                                                                   
+001.642  B864w      Brockmann, R. John.      Writing better computer user documentation :from paper to online                                                                                    
+001.642  B878b      Brown, Jerald,           BASIC for the APPLE II                                                                                                                              
+001.642  B954r      Burge, William H.        Recursive programming techniques                                                                                                                    
+001.642  C284k      Carlson, Edward H.       Kids and the Apple                                                                                                                                  
+001.642  C622f      Claybrook, Billy G.      File management techniques                                                                                                                          
+001.642  C675p      Coffron, James.          Programming the 8086/8088                                                                                                                           
+001.642  C692s      Coleman, Derek.          A structured programming approach to data                                                                                                           
+001.642  D131s      Dahlstrand, Ingemar,     Software portability and standards                                                                                                                  
+001.642  D911m      Duncan, F. G.            Microprocessor programming and software development                                                                                                 
+001.642  Ed24a      Desautels, Edouard J.    Assembly language programming for PDP 11 and LSI 11 computers :an introduction to computer organization                                             
+001.642  Ei34       Williams, William Proctor80386 system software writer's guide                                                                                                                
+001.642  Em54h      Emmerichs, Jack.         How to build a program                                                                                                                              
+001.642  Ex96       Rapaport, Herman,        Extending DOS                                                                                                                                       
+001.642  F113u      Fabbri, Tony.            Using and programming the Apple IIc, including ready-to-run programs                                                                                
+001.642  F363u      Fernandez, Judi N.,      Using CP/M                                                                                                                                          
+001.642  F981       Prâevert, Jacques,       Fundamental structures of computer science                                                                                                          
+001.642  G162m      Gallagher, Brian.        Microcomputers and word processing programs :an evaluation and critique                                                                             
+001.642  G292c3     Gear, C. William         Computer organization and programming                                                                                                               
+001.642  G475m      Gill, Arthur,            Machine and assembly language programming of the PDP-11                                                                                             
+001.642  G587c      Godman, Arthur.          The color-coded guide to microcomputers                                                                                                             
+001.642  G618s      Goldberg, Adele.         Smalltalk-80 :the language and its implementation                                                                                                   
+001.642  G627s      Golomb, Solomon Wolf.    Shift register sequences                                                                                                                            
+001.642  G669i      Gorin, Ralph E.          Introduction to DECSYSTEM-20 :assembly language programming                                                                                         
+001.642  G676n      Gosling, James.          The NeWS book :an introduction to the Network/extensible Window System                                                                              
+001.642  G736a      Graff, Lois E.,          Applesoft BASIC for the Apple II and IIe                                                                                                            
+001.642  G781|      Gray, Peter M. D.,       Logic, algebra, and databases                                                                                                                       
+001.642  G848s      Gries, David,            The science of programming                                                                                                                          
+001.642  G939       Burdett, Jeremy K.,      Guide to good programming practice                                                                                                                  
+001.642  H474d      Held, Gilbert,           Data compression :techniques and applications : hardware and software considerations                                                                
+001.642  H497f      Henderson, Peter,        Functional programming :application and implementation                                                                                              
+001.642  H679c      Hoare, C. A. R.          Communicating sequential processes                                                                                                                  
+001.642  H714p      Hogan, Thom,             The programmer's PC sourcebook :reference tables for IBM PCs and compatibles, PS/2 systems, EISA-based systems, MS-DOS operating system through versio
+001.642  H716i      Hogger, Christopher John.Introduction to logic programming                                                                                                                   
+001.642  In59       Bergersen, Betty S.      Inside computer understanding :five programs plus miniatures                                                                                        
+001.642  J94p       Jump, Dennis.            Programmer's guide to MS-DOS                                                                                                                        
+001.642  K15a       Kamins, Scot.            Apple backpack :humanized programming in BASIC                                                                                                      
+001.642  K16a       Kantaris, Noel.          The Apple's BASIC core                                                                                                                              
+001.642  K192s      Katz, Ron.               The 16-bit 8096 programming, interfacing, applications :122 hands-on experiments with Intel's iSBE-96 emulator                                      
+001.642  K19o       Katzan, Harry.           Operating systems;a pragmatic approach                                                                                                                
+001.642  K33v       Kenah, Lawrence J.,      VAX/VMS internals and data structures                                                                                                               
+001.642  K52c       King, David,             Current practices in software development :a guide to successful systems                                                                            
+001.642  K54i       King, Richard Allen.     The IBM PC-DOS handbook                                                                                                                             
+001.642  L695¾      Libes, Don,              Life with UNIX :a guide for everyone                                                                                                                
+001.642  L825f      Loeckx, Jacques,         The foundations of program verification                                                                                                             
+001.642  L832       Halmos, Paul R.          Logic programming                                                                                                                                   
+001.642  L847t      London, Keith R.         Techniques for direct access; hardware systems programming                                                                                            
+001.642  L872s      Lorin, Harold.           Sorting and sort systems                                                                                                                            
+001.642  L948c      Luehrmann, Arthur.       Computer literacy :a hands on approach                                                                                                              
+001.642  M141i      McElreath, T. Jack.      IMS design & implementation techniques                                                                                                              
+001.642  M145f      McGlynn, Daniel R.       Fundamentals of microcomputer programming, including Pascal                                                                                         
+001.642  M146t      McGowan, Clement L.,     Top-down structured programming techniques                                                                                                          
+001.642  M425p      Mateosian, Richard.      Programming the Z8000                                                                                                                               
+001.642  M453d      Maurer, Hermann A.,      Data structures and programming techniques                                                                                                          
+001.642  M596h2     Metzelaar, Lawrence C.   Hands-on :MS DOS, Wordperfect 5.0 (includes version 4.2), dBASE III Plus, Lotus 1-2-3, 2.2 (includes version 2.01)                                  
+001.642  M996c      Myers, Glenford J.,      Composite/structured design                                                                                                                         
+001.642  N433u      Nemeth, Evi.             Unix system administration handbook                                                                                                                 
+001.642  P485f      Peterson, W. Wesley      File design and programming                                                                                                                         
+001.642  P523c      Pfaltz, John L.          Computer data structures                                                                                                                            
+001.642  P695d      Pizzarello, Antonio,     Development and maintenance of large software systems                                                                                               
+001.642  P934g2     Presley, Bruce.          A guide to programming in Applesoft                                                                                                                 
+001.642  P964       Gordon, Michael J. C.,   Programming methodology :a collection of articles by members of IFIP WG2.3                                                                          
+001.642  R432c      Rolf, Ida Pauline,       The computer science problem solver                                                                                                                 
+001.642  R522p      Richardson, Gary L.      A primer on structured program design                                                                                                               
+001.642  R681a      Rochkind, Marc J.        Advanced UNIX programming                                                                                                                           
+001.642  Sa187a     Samet, Hanan.            Applications of spatial data structures :computer graphics, image processing, and GIS                                                               
+001.642  Sca283i    Scanlon, Leo J.,         IBM PC assembly language :a guide for programmers                                                                                                   
+001.642  Sch399d    Schwaderer, W. David,    Digital communications programming on the IBM PC                                                                                                    
+001.642  Se464      Ziegler, David W.        Selected reprints in software :selected reprints from Computer                                                                                      
+001.642  Sh528p     Shane, June Grant.       Programming for microcomputers :Apple II BASIC                                                                                                      
+001.642  Sh534¾     Shaw, Alan C.,           The logical design of operating systems                                                                                                               
+001.642  Sh558h     Shneiderman, Ben.        Hypertext hands-on! :an introduction to a new way of organizing and accessing information                                                           
+001.642  So677p2    Sobell, Mark G.          A practical guide to the UNIX system                                                                                                                
+001.642  So697s     Sommerville, Ian.        Software engineering                                                                                                                                
+001.642  Sp741h     Spear, Barbara.          How to document your software                                                                                                                       
+001.642  St785d     Standish, Thomas A.,     Data structure techniques                                                                                                                           
+001.642  St849a     Stewart, George.         The Apple program factory                                                                                                                           
+001.642  St925c     Stroustrup, Bjarne.      The C++ programming language                                                                                                                        
+001.642  St927      Thompson, Morris MordecaiStructured testing                                                                                                                                  
+001.642  T166s      Tanenbaum, Andrew S.,    Structured computer organization                                                                                                                    
+001.642  T292d      Tenenbaum, Aaron M.      Data structures using PASCAL                                                                                                                        
+001.642  T292d2     Tenenbaum, Aaron M.      Data structures using Pascal                                                                                                                        
+001.642  T951r      Turner, Ronald C.        Real-time programming with microcomputers                                                                                                           
+001.642  T966       Wortman, William A.,     Tutorial on structured programming, integrated practices                                                                                            
+001.642  T9662      Wortman, William A.,     Tutorial on software system design :description and analysis                                                                                        
+001.642  U¾53       åOmae, Ken®ichi,         The Ultimate guide to the vi and ex text editors                                                                                                    
+001.642  W145u      Waite, Mitchell.         UNIX System V primer                                                                                                                                
+001.642  W162f      Walden, Jeff,            File formats for popular PC software :a programmer's reference                                                                                      
+001.642  W245i      Wand, Mitchell.          Induction, recursion, and programming                                                                                                               
+001.642  W423p      Weinberg, Gerald M.      The psychology of computer programming                                                                                                                
+001.642  W462s      Welsh, Jim,              Structured system programming                                                                                                                       
+001.642  W647s      Wiener, Richard,         Software engineering with Modula-2 and Ada                                                                                                          
+001.642  W756p      Wilton, Richard,         Programmer's guide to PC & PS/2 video systems :maximum video performance from the EGA, VGA, HGC, and MCGA                                           
+001.642  W799a      Wirth, Niklaus.          Algorithms and data structures                                                                                                                      
+001.642  Z21p3      Zaks, Rodnay.            Programming the Z80                                                                                                                                 
+001.6424  Ab141|    Abelson, Harold.         LOGO for the Apple II                                                                                                                               
+001.6424  A|341a    Albrecht, Bob,           Atari BASIC                                                                                                                                         
+001.6424  A|341b2   Albrecht, Bob,           BASIC                                                                                                                                               
+001.6424  B112a     Babbie, Earl R.          Apple Logo for teachers                                                                                                                             
+001.6424  B311      Seltz, David D.          BASIC user's guide                                                                                                                                  
+001.6424  B311r     Anno, Mitsumasa,         BASIC reference manual                                                                                                                              
+001.6424  B415p     Beer, M. D.              Programming microcomputers with PASCAL                                                                                                              
+001.6424  B583m     Bic, Lubomir,            MICOS :a microprogrammable computer simulator                                                                                                       
+001.6424  B787m     Bowles, Kenneth L.,      Microcomputer :problem solving using PASCAL                                                                                                         
+001.6424  B858a     Brinch Hansen, Per,      The architecture of concurrent programs                                                                                                             
+001.6424  B864s     Brodie, Leo.             Starting FORTH :an introduction to the FORTH language and operating system for beginners and professionals                                          
+001.6424  B864t     Brodie, Leo.             Thinking FORTH :a language and philosophy for solving problems                                                                                      
+001.6424  B964|     Burnett, J. Dale.        LOGO :an introduction                                                                                                                               
+001.6424  C541t     Chirlian, Paul M.        Turbo Pascal programmer's guide                                                                                                                     
+001.6424  C643p     Clocksin, W. F.          Programming in Prolog                                                                                                                               
+001.6424  C767p2    Conway, Richard Walter,  A primer on PASCAL                                                                                                                                  
+001.6424  C777i     Cooper, James William,   Introduction to PASCAL for scientists                                                                                                               
+001.6424  D433f     Derick, Mitch            FORTH encyclopedia :the complete FORTH programmer's manual                                                                                          
+001.6424  D555f4    Didday, Richard L.       FORTRAN for humans                                                                                                                                  
+001.6424  F739f     Wetzel, Richard D.       FORTH-83 Standard                                                                                                                                   
+001.6424  G664d     Gordon, Michael J. C.,   The denotational description of programming languages :an introduction                                                                              
+001.6424  G812i     Greenfield, Stuart B.    Invitation to MODULA-2                                                                                                                              
+001.6424  H283p     Harland, D. M.           Polymorphic programming languages :design and implementation                                                                                        
+001.6424  H673h     Martin, James,           History of programming languages                                                                                                                    
+001.6424  H874a     Huang, Timothy.          And so FORTH                                                                                                                                        
+001.6424  H944u     Hunter, Bruce H.         Understanding C                                                                                                                                     
+001.6424  H991s     Hwang, C. Jinshong,      Structured programming in Basic-Plus and Basic-Plus-2 including VAX-11 Basic compatability                                                          
+001.6424  Im34      Huston, James A.         Implementations of Prolog                                                                                                                           
+001.6424  In59i     Chance, David.           IEEE standard Pascal computer programming language, approved September 17, 1981 IEEE Standards Board, approved December 16, 1982 American National Sta
+001.6424  J54p2     Jensen, Kathleen,        PASCAL :user manual and report                                                                                                                      
+001.6424  K15p      Kamin, Samuel N.         Programming languages :an interpreter-based approach                                                                                                
+001.6424  K39c      Kernighan, Brian W.      The C programming language                                                                                                                          
+001.6424  K68m2     Knecht, Kenneth.         Microsoft BASIC                                                                                                                                     
+001.6424  K76p      Kochan, Stephen.         Programming in C                                                                                                                                    
+001.6424  K79g      Kohl, Rachel.            The Genie in the computer :easy BASIC through graphics, TRS-80 edition                                                                              
+001.6424  L239i     Lamprecht, Gèunther.     Introduction to SIMULA 67                                                                                                                           
+001.6424  L473e     Ledgard, Henry F.,       Elementary PASCAL, as chronicled by John H. Watson                                                                                                  
+001.6424  L671d     Lewi, Johan.             Data structures of Pascal, Algol 68, PL/1, and Ada                                                                                                  
+001.6424  L674i     Lewis, Harry R.          An introduction to computer programming and data structures using MACRO-11                                                                          
+001.6424  L693p     Li, Deyi,                A PROLOG database system                                                                                                                            
+001.6424  L719b2    Lien, David A.,          The basic handbook :encyclopedia of the basic computer language                                                                                     
+001.6424  L766c     Lippman, Stanley B.      C++ primer                                                                                                                                          
+001.6424  L825t     Loeliger, R. G.          Threaded interpretive languages :their design and implementation                                                                                    
+001.6424  M134|     McDermott, Vern,         Learning BASIC step by step, teacher's guide                                                                                                        
+001.6424  M253e     Malley, John C.          Essentials of FORTRAN programming                                                                                                                   
+001.6424  M379t     Martin, Allan.           Teaching and learning with LOGO                                                                                                                     
+001.6424  M381f     Martin, James,           Fourth-generation languages                                                                                                                         
+001.6424  M626      Goertz, Hans-Jèurgen.    Microsoft Mouse programmer's reference.                                                                                                               
+001.6424  M636x     Mikes, Steven.           X window system technical reference                                                                                                                 
+001.6424  M6482t    Miller, Lawrence H.      The Turbo C survival guide                                                                                                                          
+001.6424  M648b     Miller, Joan M.          BASIC programming for the classroom and home teacher                                                                                                
+001.6424  N619s     Nicholls, John E.        The structure and design of programming languages                                                                                                   
+001.6424  P128f     Pagan, Frank G.          Formal specification of programming languages :a panoramic primer                                                                                   
+001.6424  P278      Rosen, Philip,           PASCAL :the language and its implementation                                                                                                         
+001.6424  P467a     Person, Ron,             Animation magic with your Apple IIe and IIc                                                                                                         
+001.6424  P784s     Pomberger, Gustav,       Software engineering and modula-2                                                                                                                   
+001.6424  P916g     Pratt, Philip J.,        A guide to SQL                                                                                                                                      
+001.6424  P917p2    Pratt, Terrence W.       Programming languages :design and implementation                                                                                                    
+001.6424  P946e     Price, Wilson T.         Elements of Basic-plus programming                                                                                                                  
+001.6424  P964, 1985Plantinga, Alvin.        Programming languages, a grand tour :a collection of papers                                                                                         
+001.6424  P9642     Schell, Jonathan,        Programming with sets :an introduction to SETL                                                                                                      
+001.6424  R845u     Roth, Pamela J.          Using the PFS family :FILE, WRITE, GRAPH, REPORT                                                                                                    
+001.6424  Sca283f   Scanlon, Leo J.          FORTH programming                                                                                                                                   
+001.6424  Sch358p   Schneider, Hans Jèurgen, Problem oriented programming languages                                                                                                              
+001.6424  Se443c    Sebesta, Robert W.       Concepts of programming languages                                                                                                                   
+001.6424  T297p     Tennent, R. D.,          Principles of programming lanugages                                                                                                                 
+001.6424  T553p     Tiberghien, Jacques,     The Pascal handbook                                                                                                                                 
+001.6424  T966      Wortman, William A.,     Tutorial, programming language design :initially presented at COMPSAC80, the IEEE Computer Society's Fourth International Computer Software & Applicat
+001.6424  V284d     Van Wyk, Christopher J.  Data structures and C programs                                                                                                                      
+001.6424  V391c     Remini, Robert Vincent,  VAX-11 COBOL language reference manual.                                                                                                               
+001.6424  V391cd    Huf, Linda.              VAX-11 Common Data Dictionary Data Definition Language reference manual.                                                                              
+001.6424  V391co    Blandford, Linda A.      VAX/VMS :command language user's guide                                                                                                              
+001.6424  V391d     Nabokov, Vladimir VladimiVAX-11 DATATRIEVE interactive user's guide.                                                                                                           
+001.6424  V391dc    Young, Gordon Ellsworth, VAX-11 DATATRIEVE call interface manual.                                                                                                              
+001.6424  V391di    Willamson, Alan,         Introduction to VAX-11 DATATRIEVE.                                                                                                                    
+001.6424  V391dr    Jewell, Malcolm Edwin,   Vax-11 DATATRIEVE reference manual.                                                                                                                   
+001.6424  V391m     Hersh, Seymour M.        VAX-11 MACRO language reference manual.                                                                                                               
+001.6424  V391mu    Hersh, Seymour M.        VAX-11 MACRO user's guide.                                                                                                                            
+001.6424  V391pp    Ravel, Maurice,          VAX-11 PASCAL primer.                                                                                                                                 
+001.6424  V391pu    Ravel, Maurice,          VAX-11 PASCAL user's guide.                                                                                                                           
+001.6424  V391p|    Ravel, Maurice,          VAX-11 PASCAL language reference manual.                                                                                                              
+001.6424  V391r     Hersh, Seymour M.        VAX-11 record management services utilities reference manual.                                                                                         
+001.6424  W344|     Watt, Daniel.            Learning with Apple Logo                                                                                                                            
+001.6424  W344|w    Watt, Daniel.            Learning with Logo                                                                                                                                  
+001.6424  W412p     Wegner, Peter.           Programming with Ada :an introduction by means of graduated examples                                                                                
+001.6424  W428c     Weiskamp, Keith.         The complete C++ primer                                                                                                                             
+001.6424  W769c     Winfield, A. F. T.       The complete FORTH                                                                                                                                  
+001.6424  W799p     Wirth, Niklaus.          Programming in Modula-2                                                                                                                             
+001.6424  W799p3    Wirth, Niklaus.          Programming in Modula-2                                                                                                                             
+001.6424  Z21i2     Zaks, Rodnay.            Introduction to PASCAL :(including UCSD PASCAL)                                                                                                     
+001.6425  Ah286p    Aho, Alfred V.           Principles of compiler design                                                                                                                       
+001.6425  Ah286t    Aho, Alfred V.           The theory of parsing, translation, and compiling                                                                                                     
+001.6425  An544a    Andersen, Dick.          AppleWorks tips & traps                                                                                                                             
+001.6425  B168m     Bakker, J. W. de         A mathematical theory of program correctness                                                                                                        
+001.6425  B534p     Berry, R. E.             Programming language translation                                                                                                                    
+001.6425  B885g     Browning, Christine.     Guide to effective software technical writing                                                                                                       
+001.6425  B994m     Bynon, David W.,         Mastering VMS                                                                                                                                       
+001.6425  C154a     Calingaert, Peter.       Assemblers, compilers, and program translation                                                                                                      
+001.6425  C188w     Campbell, J. L.          Working with AppleWorks                                                                                                                             
+001.6425  C312b     Carrabis, Joseph-David.  The best book of dBASE IV                                                                                                                           
+001.6425  C594e     Clark, Roger E.          Executive VisiCalc for the Apple computer                                                                                                           
+001.6425  C737      Herford, Charles Harold, Compiler construction :an advanced course                                                                                                           
+001.6425  C738      Bic, Lubomir,            Computers in science and social studies :a sourcebook of ideas                                                                                      
+001.6425  D254r     Davie, A. J. T.          Recursive descent compiling                                                                                                                         
+001.6425  D574d     Wang, James C. F.        Decsystem 10, Decsystem 20 hardware reference manual                                                                                                
+001.6425  En57      Konle, Carolyn.          Engineering a compiler :VAX-11 code generation and optimization                                                                                     
+001.6425  Er68a     Ericson, Robert.         AppleWorks :tips and techniques                                                                                                                     
+001.6425  G798c     Greenberg, Philip J.     The complete guide to dBASE III :a self-teaching guide                                                                                              
+001.6425  G848c     Gries, David,            Compiler construction for digital computers.                                                                                                          
+001.6425  H998      Bush, Mary Ann.          HyperCard user's guide                                                                                                                              
+001.6425  H9982     Rotberg, Robert I.       HyperTalk beginner's guide :an introduction to scripting.                                                                                             
+001.6425  K13d      Kaisler, Stephen H.      The design of operating systems for small computer systems                                                                                          
+001.6425  K78a      Kogge, Peter M.,         The architecture of pipelined computers                                                                                                             
+001.6425  L675c     Lewis, Philip M.,        Compiler design theory                                                                                                                              
+001.6425  M128m     McClure, Carma L.        Managing software development and maintenance                                                                                                       
+001.6425  M145c     McGehee, Brad,           The complete guide to writing software user manuals                                                                                                 
+001.6425  M149, 1982Campbell, Roy,           Machine-Independent Organic Software Tools (MINT)                                                                                                   
+001.6425  M439a     Matthews, Carole Boggs.  AppleWorks made easy                                                                                                                                
+001.6425  M626      Biggadike, E. Ralph,     Microprocessor operating systems                                                                                                                    
+001.6425  M647m     Miller, Alan R.,         Mastering CP/M                                                                                                                                      
+001.6425  N375g     Needle, Sheldon P.       A guide to accounting software for microcomputers                                                                                                   
+001.6425  P394p     Pemberton, Steven,       Pascal implementation                                                                                                                               
+001.6425  P465h     Perry, William E.        How to test software packages :a step-by-step guide to assuring they do what you want                                                               
+001.6425  P998c     Pyster, Arthur B.        Compiler design and construction                                                                                                                    
+001.6425  R425s     Reps, Thomas W.          The synthesizer generator :a system for constructing language-based editors                                                                         
+001.6425  R425sr3   Reps, Thomas W.          The synthesizer generator reference manual                                                                                                          
+001.6425  R891h     Royer, Jeffrey P.        Handbook of software and hardware interfacing for IBM PCs                                                                                           
+001.6425  R896c     Rubin, Charles,          AppleWorks :the  Microsoft desktop dictionary and cross-reference guide                                                                             
+001.6425  Sch378i   Schreiner, Axel T.       Introduction to compiler construction with UNIX                                                                                                     
+001.6425  Sch379s   Schriber, Thomas J.,     Simulation using GPSS                                                                                                                                 
+001.6425  Sy995     Heys, Sandra.            System BIOS for IBM PC/XT/AT computers and compatibles :the complete guide to ROM-based system software                                             
+001.6425  S¾634a    Sloan, Michael L.,       AppleWorks :the program for the rest of us                                                                                                          
+001.6425  T966      Wortman, William A.,     Tutorial: software testing & validation techniques                                                                                                  
+001.6425  V391c     Remini, Robert Vincent,  VAX-11 COBOL user's guide.                                                                                                                            
+001.6425  V391d     Young, Gordon Ellsworth, VAX-11 Common Data Dictionary Utilities reference manual.                                                                                             
+001.6425  V391s     Hersh, Seymour M.        VAX-11 sort/merge user's guide                                                                                                                      
+001.6425  V391sd    Jewell, Malcolm Edwin,   VAX-11 symbolic debugger reference manual.                                                                                                            
+001.6425  V391st    Warner, Marina,          VAX-11 SOS text editing reference manual.                                                                                                             
+001.6425  V391|     Hersh, Seymour M.        VAX-11 linker reference manual.                                                                                                                       
+001.6425  Z21c      Zaks, Rodnay.            The CP/M handbook with mp/m                                                                                                                         
+001.644  G161h      Galitz, Wilbert O.       Handbook of screen format design                                                                                                                    
+001.644  In61       Charon, Jacqueline.      Introductory readings in expert systems                                                                                                             
+001.644  T568v      Tijerina, Louis.         Video display terminal workstation ergonomics                                                                                                       
+001.64404  Ad244    McElreath, T. Jack.      Advances in computer communications and networking                                                                                                  
+001.64404  C738     Heise, Juergen Arthur.   Computer networks and their protocols                                                                                                               
+001.64404  C7382    Yanov, Alexander,        Computer network architectures and protocols                                                                                                        
+001.64404  C748c    Ayres, A. Jean.          Conference on Information Computers and Communications :preprints of papers : Melbourne, 24-26 June 1985                                            
+001.64404  C996c    Cypser, R. J.            Communications architecture for distributed systems                                                                                                 
+001.64404  D637     Scheirer, Mary Ann.      Documentation standards and procedures for online systems                                                                                           
+001.64404  F836|    Franta, W. R.            Local networks :motivation, technology, and performance                                                                                             
+001.64404  L764m    Lipovski, G. Jack.       Microcomputer interfacing :principles and practices                                                                                                 
+001.64404  P994c    Puézman, Josef.          Communication control in computer networks                                                                                                          
+001.64404  T966     Wortman, William A.,     Tutorial, local computer networks :initially presented at Compcon fall 80                                                                           
+001.64404  T966, 198Wortman, William A.,     Tutorial: microcomputer networks                                                                                                                    
+001.64407  B512c    Berkeley, Peter E.       Computer operations training :a strategy for change                                                                                                 
+001.6442  An619     Gawronski, Donald V.     The ANSI/X3/SPARC DBMS framework :report of the Study Group on Database Management Systems                                                          
+001.6442  Es78      Medvedev, P. N.          Essential guide to CD-ROM                                                                                                                           
+001.6442  K93d2     Kroenke, David.          Data base processing :fundamentals, design, implementation                                                                                          
+001.6442  M381c2    Martin, James,           Computer data-base organization                                                                                                                     
+001.6442  St864i    Stockey, Edward A        An introduction to data base searching :a self-instruction manual                                                                                   
+001.6442  T789i2    Tremblay, Jean-Paul,     An introduction to data structures with applications                                                                                                
+001.6442  V391d     Covert, Catherine LucilleVAX-11 DBMS database administration manual                                                                                                          
+001.6442  V391dd    Covert, Catherine LucilleVAX-11 DBMS DML user's guide                                                                                                                        
+001.6442  V391ddr   Covert, Catherine LucilleVAX-11 DBMS DDL reference manual                                                                                                                    
+001.6442  V391df    Covert, Catherine LucilleVAX-11 DBMS FDML reference manual                                                                                                                   
+001.6442  V391ds    Covert, Catherine LucilleVAX-11 DBMS summary description                                                                                                                     
+001.6442  V391du    Brahms, Johannes,        VAX-11 DBMS utilities reference manual.                                                                                                               
+001.6442  V391r     Hersh, Seymour M.        Introduction to VAX-11 record management services.                                                                                                    
+001.6442  V391rr    Albinoni, Tomaso,        VAX-11 record management services reference manual.                                                                                                   
+001.6442  V391rt    Hersh, Seymour M.        VAX-11 record management services tuning guide.                                                                                                       
+001.6443  An583h    Angell, Ian O.           High-resolution computer graphics using Pascal                                                                                                      
+001.6443  An583p    Angell, Ian O.           A practical introduction to computer graphics                                                                                                       
+001.6443  B587t     Bielig-Schulz, G.        3D-graphics in Pascal                                                                                                                               
+001.6443  C487g     Chasen, Sylvan H.,       Geometric principles and procedures for computer graphic applications                                                                               
+001.6443  C738      Meenaghan, Thomas M.     Computer graphics                                                                                                                                   
+001.6443  C7382     Vonnegut, Kurt.          Computer image generation                                                                                                                           
+001.6443  C752p     Conklin, Dick,           PC graphics :charts, graphs, games, and art on the IBM PC                                                                                           
+001.6443  F663f     Foley, James D.,         Fundamentals of interactive computer graphics                                                                                                       
+001.6443  F899v     Friedhoff, Richard.      Visualization :the second computer revolution                                                                                                       
+001.6443  G488i     Giloi, Wolfgang.         Interactive computer graphics :data structures, algorithms, languages                                                                               
+001.6443  H436m     Hearn, Donald.           Microcomputer graphics :techniques and applications                                                                                                 
+001.6443  H699c     Hoffman, E. Kenneth.     Computer graphics applications :an introduction to desktop publishing & design, presentation graphics, animation                                    
+001.6443  In61      Berger, Bennett M.       Introduction to the Graphical Kernel System (GKS)                                                                                                   
+001.6443  K84g      Korites, B. J.           Graphics for the IBMpc                                                                                                                              
+001.6443  L671c     Lewell, John.            Computer graphics :a survey of current techniques and applications                                                                                  
+001.6443  P933      Buckwalter, Leoda A.     The Presentation design book :projecting a good image with your desktop computer                                                                    
+001.6443  R229, 1985Weinberg, Gerald M.      Raster graphics handbook                                                                                                                            
+001.6443  R725m     Rogers, David F.,        Mathematical elements for computer graphics                                                                                                         
+001.6443  Sa267b    Saviâc, Duæsko.          BASIC interactive graphics                                                                                                                          
+001.6443  T497p     Thornburg, David D.      Picture this! pilot turtle geometry :an introduction to computer graphics for kids of all ages                                                      
+001.6443  T966      Hoenstine, Floyd G.      Tutorial : computer graphics                                                                                                                        
+001.6443  T966, 1982Wortman, William A.,     Tutorial: computer graphics                                                                                                                         
+001.6443  T9662     Wortman, William A.,     Tutorial and selected readings in interactive computer graphics :initially presented at February 25-28 spring Compcon 80, twentieth IEEE Computer Soci
+001.6443  Up69r     Upstill, Steve.          The RenderMan companion :a programmer's guide to realistic computer graphics                                                                        
+001.6443  W145g     Waite, Mitchell.         Graphics primer for the IBM PC                                                                                                                      
+001.6443  W344f     Watt, Alan H.,           Fundamentals of three-dimensional computer graphics                                                                                                 
