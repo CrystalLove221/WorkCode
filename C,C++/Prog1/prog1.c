@@ -210,12 +210,6 @@ void rotate(char* line, size_t length)
 	return;
 }
 
-//size_t removeDigits(char* line, size_t length)
-//{
-//}
-//size_t removeDigits(char* line, size_t length)
-//{
-
 size_t removeDigits(char* line, size_t length)
 {
 	size_t retval = length;
@@ -247,29 +241,3 @@ size_t removeDigits(char* line, size_t length)
 
 	return retval;
 }
-//	int index = 0;
-//	for(int i = 0; i < length; i++)
-//	{
-//		if(isdigit(line[i]))
-//		{
-//			continue;
-//		}
-//
-//		char tmp = line[index];
-//		line[index] = line[i];
-//		line[i] = tmp;
-//
-//		index++;
-//
-//	}
-//
-//	size_t tmp = length;
-//	for(int j = index; j < length; j++)
-//	{
-//		line[j] = '\0';
-//		tmp--;
-//	}
-//
-//	length = tmp;
-//
-//	return length;
