@@ -1,0 +1,38 @@
+trh221
+Tyler Hogue
+5-3-2019
+CSE 241
+
+Files:
+--root: jdbc libraries, jar executable, all source class files
+--trh221: project source code
+--incomplete: code I wanted to implement
+--sql_sheet: sql worksheets used for autogenerating relations and testing database queries
+--data_insert: data generator program for almost entire database
+	(does not include shipments, purchases, nor recalls)
+
+Database:
+--every product is a commodity (no proprietary supplier)
+--Each supplier can make multiple products
+--Every shipment consists of only one product from one group
+--Suppliers have infinite budget on purchases and never run out of stock on products
+--every group of products is made of the same product (another product group)
+--Unfortunately, none of the mandatory participation constraints from ER diagram
+	work in the database
+--A factory without a supplier is not a factory
+	(deleted from database if supplier is shutdown)
+
+Interfaces:
+--log in with Oracle username and password
+--Supply of product for a supplier is the quantity of a group of product held by that supplier
+--User may choose to cancel return a product or cancel a purchase.
+	Cancelled purchases remove associated shipment from database
+
+--At any point where a single character input is not requested,
+	the user may cancel an update by supplying a blank.
+	(note: for addresses, a blank on street, city, and state is required for cancel)
+
+
+Disclaimer: Any unnerving text output is a joke. I had to make coding fun somehow.
+
+VGhpcyBpcyBhIHdhcm5pbmcgdG8gYWxsIHN0dWRlbnRzIG9mIExlaGlnaCBVbml2ZXJzaXR5LiBUaGlzIGlzIG5vdCBhIGRyaWxsLgpUaGUgc2Nob29sIG11c3QgYmUgZXZhY3VhdGVkIGltbWVkaWF0ZWx5LiBUaGUga2F3YWlpIGdpYW50ZXNzZXMgb2YgZG9vbSBhcmUgYXBwcm9hY2hpbmcuCkJld2FyZSBvZiB0aGVpciBsb2xpIGF0dGFja3MuIFRoZXkgd2lsbCBicmFpbndhc2ggbWFsZXMgb2YgYWxsIGFnZXMsIHN1Y2tpbmcgb3V0IGFsbCB0cmFjZXMgb2YgbW9kZXN0eS4KCkFnYWluLiBUaGlzIGlzIG5vdCBhIGRyaWxsLg==

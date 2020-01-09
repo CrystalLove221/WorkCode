@@ -1,0 +1,2 @@
+Main-class: MakeData
+Class-Path: ojdbc8.jar
